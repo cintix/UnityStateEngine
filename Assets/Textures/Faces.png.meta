@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 07d3076fc23bdae44835febd7c6ec22d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8696590113549757662
+    second: happyfaces_0
+  - first:
+      213: -4673473356727591071
+    second: happyfaces_1
+  - first:
+      213: -8143579828200737626
+    second: happyfaces_2
+  - first:
+      213: 3329712303730715881
+    second: happyfaces_3
+  - first:
+      213: -4249000861610725047
+    second: happyfaces_4
+  - first:
+      213: 3691918526270071339
+    second: happyfaces_5
+  - first:
+      213: -8872354258537219081
+    second: happyfaces_6
+  - first:
+      213: 4354891267363436853
+    second: happyfaces_7
+  - first:
+      213: 7622738049546477612
+    second: happyfaces_8
+  - first:
+      213: -2640858545985637912
+    second: happyfaces_9
+  - first:
+      213: 8697124357738536675
+    second: happyfaces_10
+  - first:
+      213: 8236739958945555107
+    second: happyfaces_11
+  - first:
+      213: 7043219691171503634
+    second: happyfaces_12
+  - first:
+      213: -8759681895915665201
+    second: happyfaces_13
+  - first:
+      213: -7191342346051546964
+    second: happyfaces_14
+  - first:
+      213: 4483132230320244882
+    second: happyfaces_15
+  - first:
+      213: 8795264092056691685
+    second: happyfaces_16
+  - first:
+      213: 3347710808795154876
+    second: happyfaces_17
+  - first:
+      213: -2334230961929772308
+    second: happyfaces_18
+  - first:
+      213: -6016679715194247303
+    second: happyfaces_19
+  - first:
+      213: 7029441420989411686
+    second: happyfaces_20
+  - first:
+      213: 4484486800954028977
+    second: happyfaces_21
+  - first:
+      213: -3724705039320098294
+    second: happyfaces_22
+  - first:
+      213: 2565883957775215225
+    second: happyfaces_23
+  - first:
+      213: 302618674213516045
+    second: happyfaces_24
+  - first:
+      213: -8909757349312586271
+    second: happyfaces_25
+  - first:
+      213: 5682612834544438159
+    second: happyfaces_26
+  - first:
+      213: -1409077219438722206
+    second: happyfaces_27
+  - first:
+      213: -1388469716463701972
+    second: happyfaces_28
+  - first:
+      213: 1837962447197523823
+    second: happyfaces_29
+  - first:
+      213: 8539685403037946110
+    second: happyfaces_30
+  - first:
+      213: 5625904876643761998
+    second: happyfaces_31
+  - first:
+      213: -105006702217505524
+    second: happyfaces_32
+  - first:
+      213: 4724115582682327141
+    second: happyfaces_33
+  - first:
+      213: -5797211622907969664
+    second: happyfaces_34
+  - first:
+      213: -5160204125520168106
+    second: happyfaces_35
+  - first:
+      213: 5094513501558919880
+    second: happyfaces_36
+  - first:
+      213: 257294363236594163
+    second: happyfaces_37
+  - first:
+      213: -6286809475743091366
+    second: happyfaces_38
+  - first:
+      213: 8191338306911775203
+    second: happyfaces_39
+  - first:
+      213: 7878078834704404728
+    second: happyfaces_40
+  - first:
+      213: -8920557019455357196
+    second: happyfaces_41
+  - first:
+      213: -865295798001047965
+    second: happyfaces_42
+  - first:
+      213: 6806753481731484515
+    second: happyfaces_43
+  - first:
+      213: 7948840817440822052
+    second: happyfaces_44
+  - first:
+      213: 207147975842917053
+    second: happyfaces_45
+  - first:
+      213: -2719085556598624942
+    second: happyfaces_46
+  - first:
+      213: -9156357772509897759
+    second: happyfaces_47
+  - first:
+      213: -5895023068808423348
+    second: happyfaces_48
+  - first:
+      213: -7125816672287501154
+    second: happyfaces_49
+  - first:
+      213: -506857398052735186
+    second: happyfaces_50
+  - first:
+      213: 912290643923530504
+    second: happyfaces_51
+  - first:
+      213: -2786993927448732146
+    second: happyfaces_52
+  - first:
+      213: 7425039343279522626
+    second: happyfaces_53
+  - first:
+      213: 6394045446347632245
+    second: happyfaces_54
+  - first:
+      213: 4327596478171109847
+    second: happyfaces_55
+  - first:
+      213: -6632205166177054830
+    second: happyfaces_56
+  - first:
+      213: -1664231175983321535
+    second: happyfaces_57
+  - first:
+      213: 6478928975931606673
+    second: happyfaces_58
+  - first:
+      213: 4880299218271062189
+    second: happyfaces_59
+  - first:
+      213: 7994167557871790123
+    second: happyfaces_60
+  - first:
+      213: -8618006073489393012
+    second: happyfaces_61
+  - first:
+      213: 2000869849083291583
+    second: happyfaces_62
+  - first:
+      213: -8032987896321085370
+    second: happyfaces_63
+  - first:
+      213: 5054934370440151006
+    second: happyfaces_64
+  - first:
+      213: 8292101233031975375
+    second: happyfaces_65
+  - first:
+      213: 1166053751645561804
+    second: happyfaces_66
+  - first:
+      213: -2742239766732132551
+    second: happyfaces_67
+  - first:
+      213: 8779296764855480106
+    second: happyfaces_68
+  - first:
+      213: 6770933553460939761
+    second: happyfaces_69
+  - first:
+      213: -7287963900704506076
+    second: happyfaces_70
+  - first:
+      213: -41454286275337682
+    second: happyfaces_71
+  - first:
+      213: -1095073452819801580
+    second: happyfaces_72
+  - first:
+      213: 6662401847662133498
+    second: happyfaces_73
+  - first:
+      213: 5810330256819974004
+    second: happyfaces_74
+  - first:
+      213: 2948069803563281846
+    second: happyfaces_75
+  - first:
+      213: -1930914844573450743
+    second: happyfaces_76
+  - first:
+      213: -611016979627301206
+    second: happyfaces_77
+  - first:
+      213: -2738489147738981823
+    second: happyfaces_78
+  - first:
+      213: -5619646056701533133
+    second: happyfaces_79
+  - first:
+      213: 2170022542051117415
+    second: happyfaces_80
+  - first:
+      213: -2569989622705338220
+    second: happyfaces_81
+  - first:
+      213: 5805246053441794722
+    second: happyfaces_82
+  - first:
+      213: -3757330242338576495
+    second: happyfaces_83
+  - first:
+      213: 5957700717871021059
+    second: happyfaces_84
+  - first:
+      213: -8999426121734455243
+    second: happyfaces_85
+  - first:
+      213: -6165695402485157806
+    second: happyfaces_86
+  - first:
+      213: -6885877403896180893
+    second: happyfaces_87
+  - first:
+      213: -618630798963112782
+    second: happyfaces_88
+  - first:
+      213: -2253790285233638115
+    second: happyfaces_89
+  - first:
+      213: -2987166236764966602
+    second: happyfaces_90
+  - first:
+      213: 4707535329906566483
+    second: happyfaces_91
+  - first:
+      213: 1646654222735409187
+    second: happyfaces_92
+  - first:
+      213: 5080178776399071913
+    second: happyfaces_93
+  - first:
+      213: -3002553047740275884
+    second: happyfaces_94
+  - first:
+      213: -4341994222044738880
+    second: happyfaces_95
+  - first:
+      213: -256728472028385418
+    second: happyfaces_96
+  - first:
+      213: 4290021796246005126
+    second: happyfaces_97
+  - first:
+      213: 6105513483040696644
+    second: happyfaces_0
+  - first:
+      213: -1737459414537722131
+    second: happyfaces_1
+  - first:
+      213: 2866429538679472394
+    second: happyfaces_2
+  - first:
+      213: -2367847703595380824
+    second: happyfaces_3
+  - first:
+      213: 9062267109749949847
+    second: happyfaces_4
+  - first:
+      213: -3898030355903692659
+    second: happyfaces_5
+  - first:
+      213: 8216434936821744537
+    second: happyfaces_6
+  - first:
+      213: -5393858637759646635
+    second: happyfaces_7
+  - first:
+      213: 3088206932053177519
+    second: happyfaces_8
+  - first:
+      213: 4122755815834716608
+    second: happyfaces_9
+  - first:
+      213: -2596552080522844543
+    second: happyfaces_10
+  - first:
+      213: -1687203175486707202
+    second: happyfaces_11
+  - first:
+      213: -7687099298185543341
+    second: happyfaces_12
+  - first:
+      213: 3612987926767348618
+    second: happyfaces_13
+  - first:
+      213: -3603988420808248609
+    second: happyfaces_14
+  - first:
+      213: -48873159793932741
+    second: happyfaces_15
+  - first:
+      213: -7120088396456360284
+    second: happyfaces_16
+  - first:
+      213: 4120317642352464021
+    second: happyfaces_17
+  - first:
+      213: 6217629799545076045
+    second: happyfaces_18
+  - first:
+      213: -903939751008628864
+    second: happyfaces_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: happyfaces_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 523
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449aff71a242bb450800000000000000
+      internalID: 6105513483040696644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 539
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de622d03edd43e7e0800000000000000
+      internalID: -1737459414537722131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 519
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014daa7a7a97c720800000000000000
+      internalID: 2866429538679472394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 529
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af09f81f07b32fd0800000000000000
+      internalID: -2367847703595380824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 423
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7950a502ce3a3cd70800000000000000
+      internalID: 9062267109749949847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 399
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80cba04b0a67e9c0800000000000000
+      internalID: -3898030355903692659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 407
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9938e51ea04a60270800000000000000
+      internalID: 8216434936821744537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 392
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f9a7952a2525b0800000000000000
+      internalID: -5393858637759646635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 286
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4bde9b7d38bda20800000000000000
+      internalID: 3088206932053177519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 286
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9018a3298f63930800000000000000
+      internalID: 4122755815834716608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 281
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18662afc3a137fbd0800000000000000
+      internalID: -2596552080522844543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 273
+        width: 121
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9243da6a9d598e0800000000000000
+      internalID: -1687203175486707202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 175
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3510f729aefe15590800000000000000
+      internalID: -7687099298185543341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 167
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2eb08069e32230800000000000000
+      internalID: 3612987926767348618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 160
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27a1340af0cfdc0800000000000000
+      internalID: -3603988420808248609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 159
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368e6fbe1e525ff0800000000000000
+      internalID: -48873159793932741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 35
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a686d7c35d503d90800000000000000
+      internalID: -7120088396456360284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 46
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590913ab01f4e2930800000000000000
+      internalID: 4120317642352464021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4974ca3c55794650800000000000000
+      internalID: 6217629799545076045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 51
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f86c2f59f8473f0800000000000000
+      internalID: -903939751008628864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happyfaces_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 559
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661bd739ab79d8160800000000000000
+      internalID: 7029441420989411686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
